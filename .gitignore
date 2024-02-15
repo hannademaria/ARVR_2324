@@ -111,3 +111,4 @@ DerivedDataCache/*
 # VSCode History Files
 **/.history
 
+.DS_Store
